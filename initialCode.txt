@@ -1,3 +1,6 @@
 some initial code here
 
 new hotfix code
+
+feature three code
+
